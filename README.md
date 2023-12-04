@@ -90,3 +90,18 @@ When you're done testing or want to tear down the infrastructure, use Terraform 
 ````bash 
 terraform destroy
 ````
+
+
+
+### Connect with Me 🌐✨
+
+For any queries, feedback, or collaboration opportunities, I'm just a click away! Feel free to reach out through:
+
+**Email:** [haithamelabd@gmail.com](mailto:haithamelabd@gmail.com)
+
+**LinkedIn:** [Connect with me](https://chat.openai.com/c/www.linkedin.com/in/h3itham) for insightful discussions, collaborations, or to explore more about cloud deployment strategies!
+
+Let's connect, share ideas, and propel the potential of cloud-native applications together! 🚀🔗
+
+
+
