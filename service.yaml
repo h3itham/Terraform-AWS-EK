@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: nodejs-service
+spec:
+  type: ClusterIP 
+  selector:
+    app: Testing # Match the labels with your Deployment
+  ports:
+    - protocol: TCP
+      port: 80 # Port exposed on the service
+      targetPort: 3000 # Port your application listens on in the pods
