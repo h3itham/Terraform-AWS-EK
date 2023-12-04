@@ -97,7 +97,7 @@ terraform destroy
 
 For any queries, feedback, or collaboration opportunities, I'm just a click away! Feel free to reach out through:
 
-**Email:** [haithamelabd@gmail.com](mailto:haithamelabd@gmail.com)
+**Email:** [haithamelabd@gmail.com](mailto:haithamelabd@outlook.com)
 
 **LinkedIn:** [Connect with me](https://chat.openai.com/c/www.linkedin.com/in/h3itham) for insightful discussions, collaborations, or to explore more about cloud deployment strategies!
 
