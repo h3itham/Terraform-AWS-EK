@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: node-deployment
+  labels:
+    app: Testing
+spec:
+  replicas: 3 # Number of replicas for the deployment
+  selector:
+    matchLabels:
+      app: Testing
+  template:
+    metadata:
+      labels:
+        app: Testing
+    spec:
+      containers:
+        - name: nodejs-app
+          image: 79820/nodejs:haitham # Replace with your container image
+          ports:
+            - containerPort: 3000 # Port your application listens on
