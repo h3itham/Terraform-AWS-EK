@@ -7,7 +7,7 @@ This guide will walk you through deploying a Node.js application on Amazon EKS u
 
 ## Infrastructure Overview
 
-This project sets up the necessary AWS infrastructure for deploying the Node.js application on Amazon EKS using Terraform. The infrastructure includes:
+This project sets up the necessary AWS infrastructure for deploying High Available Node.js application on Amazon EKS using Terraform. The infrastructure includes:
 
 - VPC Setup:
   - Created a Virtual Private Cloud (VPC) with the following components:
@@ -19,11 +19,11 @@ This project sets up the necessary AWS infrastructure for deploying the Node.js 
 
 Before getting started, make sure you have the following installed:
 
-* Terraform (version >= X.X.X)
-* AWS CLI (configured with appropriate permissions)
+* Terraform 
+* AWS CLI 
 * kubectl
 
- Also, ensure you have an AWS account and have configured your AWS credentials.
+ 
 
 ## Steps for Deployment
 
