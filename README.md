@@ -1,7 +1,7 @@
 
 # Deploying Node.js App on Amazon EKS with Terraform
 
-![](./EKS.png)
+![](./EKS.gif)
 
 This guide will walk you through deploying a Node.js application on Amazon EKS using Terraform. 
 
